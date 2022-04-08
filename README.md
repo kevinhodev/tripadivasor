@@ -8,6 +8,7 @@ Recursos:
 Neste projeto aprendi:
 1. Práticas recomendadas do React, como estrutura de pastas e arquivos, hooks e refs.
 2. Usando o Material UI para construir a interface.
-3. Trabalhar com a API do Google Maps
+3. Trabalhar com a API do Google Maps.
 
-![image](https://user-images.githubusercontent.com/11366871/162340432-e80d04d2-e2fa-4905-b168-a7bd8cea6512.png)
+![image](https://user-images.githubusercontent.com/11366871/162340499-63b61195-1b4f-48be-8fa2-15faaa03d147.png)
+
