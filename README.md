@@ -10,4 +10,4 @@ Neste projeto aprendi:
 2. Usando o Material UI para construir a interface.
 3. Trabalhar com a API do Google Maps
 
-![68747470733a2f2f692e6962622e636f2f71706832635a6e2f696d6167652e706e6767](https://user-images.githubusercontent.com/11366871/162249008-354368a7-f47f-4ba1-8bd2-8554407cfe04.png)
+![image](https://user-images.githubusercontent.com/11366871/162340432-e80d04d2-e2fa-4905-b168-a7bd8cea6512.png)
